@@ -6,7 +6,7 @@ A simple text editor that meets the Progressive Web Development criteria. It fea
 ![Service Worker](https://img.shields.io/badge/Service%20Worker-FF5733.svg?style=for-the-badge)
 ![Server](https://img.shields.io/badge/Server-6DB33F.svg?style=for-the-badge)
 ![Client](https://img.shields.io/badge/Client-35495E.svg?style=for-the-badge)<br>
-![Cache](https://img.shields.io/badge/Cache-FFCA28.svg?style=for-the-badge&logo=google-chrome&logoColor=white)
+
 <br>
 <br>
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow.svg)](https://www.ecma-international.org/ecma-262/)
