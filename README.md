@@ -36,7 +36,8 @@ open the index.html from the dist folder in live server to start the application
 [MIT License](https://opensource.org/licenses/MIT)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Link : https://salty-spire-29433-5c8302952485.herokuapp.com/
+## Link 
+https://salty-spire-29433-5c8302952485.herokuapp.com/
 
 ## Screenshots
 ![image](https://github.com/SwathiVinod19/text-editor-pwa/assets/129353324/215f28e0-4de2-4c43-8d30-143e0c97f137)
