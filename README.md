@@ -21,5 +21,33 @@ A simple text editor that meets the Progressive Web Development criteria. It fea
 - [Contribution](#Contribution)
 - [Questions](#Questions)
 
+## Description :
+A single-page text editor that runs in the browser and will also function offline.
 
-#Link : https://salty-spire-29433-5c8302952485.herokuapp.com/
+## Installation :
+clone this repository
+type "npm install" in the terminal to install the dependencies
+type "npm run build" to build dist folder.
+
+## Usage
+open the index.html from the dist folder in live server to start the application
+
+## License 
+[MIT License](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Link : https://salty-spire-29433-5c8302952485.herokuapp.com/
+
+## Screenshots
+![image](https://github.com/SwathiVinod19/text-editor-pwa/assets/129353324/215f28e0-4de2-4c43-8d30-143e0c97f137)
+
+![image](https://github.com/SwathiVinod19/text-editor-pwa/assets/129353324/5c4b08db-de60-4195-89b4-8cee2f77c189)
+
+## Contributions
+
+Open to any suggestions and contributions
+
+## Questions
+[email me](swathi.vinod@gmail.com)
+
+
